@@ -1,0 +1,57 @@
+.conteudo{
+  text-align: center;
+  padding: 0.6em 0;
+}
+
+.conteudo__titulo{
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.conteudo__texto{
+    padding: 0.5em 0;
+    color: rgb(116, 116, 114);
+}
+
+.botao-musica{
+    display: flex;
+    background:rgb(217, 217, 212);
+    border-radius: 0.5em;
+    align-items: center;
+    padding: 0.4em;
+    margin: 0 0.3em;
+    margin-bottom: 1.3em;
+}
+
+.musica__texto em{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+em{
+    color: rgb(116, 116, 114);
+}
+
+.musica__link{
+    font-size: 15px;
+    color: blue;
+}
+
+.botao{
+    text-decoration: none;
+    color: white;
+    padding: 0.6em 2.2em;
+    background: blue;
+    border-radius: 0.5em;
+    margin-bottom: 1em;
+    clear: both;
+}
+
+.botao__cancela{
+    margin: 1em;
+}
+
+.cancela{
+    text-decoration: none;
+    color:rgb(116, 116, 114);
+}

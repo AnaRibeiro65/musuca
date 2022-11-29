@@ -1,0 +1,28 @@
+ .principal{
+    margin: 2em;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    object-fit: cover;
+}
+
+.conterner{   
+    background: rgb(255, 255, 255); 
+    max-width: 16rem;
+     max-height: 40rem;
+
+    border-radius: 2em;
+}
+
+.principal__imagem{
+    background-size: 100%;
+    border-radius: 2em;
+}
+
+.imagem{
+    height: 30vh;
+    border-radius: 2em 2em 0 0;
+    max-width: 16rem;
+    width: 100%;
+
+}
